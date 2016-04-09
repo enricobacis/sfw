@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "background": {
+     "scripts": ["background.js"]
+  },
+
+  "name": "XXX",
+  "description": "It's like a condom, for your internet.",
+  "version": "0.1",
+
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ]
+}
