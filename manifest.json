@@ -18,6 +18,7 @@
   "permissions": [
     "webRequest",
     "webRequestBlocking",
+    "history",
     "<all_urls>"
   ]
 }
