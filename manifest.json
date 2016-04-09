@@ -13,7 +13,7 @@
 
   "name": "SFW",
   "description": "It's like a condom, for your internet.",
-  "version": "0.1",
+  "version": "0.2",
 
   "permissions": [
     "webRequest",
