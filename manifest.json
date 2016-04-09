@@ -5,6 +5,12 @@
      "scripts": ["background.js"]
   },
 
+  "icons": {
+     "16":  "icons/sfw16.png",
+     "48":  "icons/sfw48.png",
+     "128": "icons/sfw128.png"
+  },
+
   "name": "SFW",
   "description": "It's like a condom, for your internet.",
   "version": "0.1",
